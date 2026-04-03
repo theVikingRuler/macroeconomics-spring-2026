@@ -1,0 +1,421 @@
+﻿statistics_code,statistics_label,time_code,time_label,time,1_variable_code,1_variable_label,1_variable_attribute_code,1_variable_attribute_label,value,value_unit,value_variable_code,value_variable_label
+81000,National accounts of the Federation,JAHR,Year,2016,DINSG,Germany,DG,Germany,39326,1000,ERW061,Employees (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2016,DINSG,Germany,DG,Germany,81867,1000,BEV020,Population
+81000,National accounts of the Federation,JAHR,Year,2016,DINSG,Germany,DG,Germany,1630,1000,ERW003,Unemployed persons
+81000,National accounts of the Federation,JAHR,Year,2016,DINSG,Germany,DG,Germany,45243,1000,ERW001,Economically active population
+81000,National accounts of the Federation,JAHR,Year,2016,DINSG,Germany,DG,Germany,43613,1000,ERW060,Persons in employment (national concept)
+81000,National accounts of the Federation,JAHR,Year,2016,DINSG,Germany,DG,Germany,3.6,percent,ERW089,Unemployment rate
+81000,National accounts of the Federation,JAHR,Year,2016,DINSG,Germany,DG,Germany,73,1000,PEN012,Cross-border commuter balance
+81000,National accounts of the Federation,JAHR,Year,2016,DINSG,Germany,DG,Germany,43686,1000,ERW063,Persons in employment (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2016,DINSG,Germany,DG,Germany,4360,1000,ERW030,Self-employed persons
+81000,National accounts of the Federation,JAHR,Year,2016,DINSG,Germany,DG,Germany,39253,1000,ERW036,Employees (national concept)
+81000,National accounts of the Federation,JAHR,Year,2016,DINSG,Germany,DG,Germany,36624,1000,ERW004,Economically inactive population
+81000,National accounts of the Federation,JAHR,Year,2016,DINSG,Germany,DG,Germany,55.3,percent,ERW088,Labour force participation rate
+81000,National accounts of the Federation,JAHR,Year,2015,DINSG,Germany,DG,Germany,38723,1000,ERW061,Employees (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2015,DINSG,Germany,DG,Germany,81346,1000,BEV020,Population
+81000,National accounts of the Federation,JAHR,Year,2015,DINSG,Germany,DG,Germany,1794,1000,ERW003,Unemployed persons
+81000,National accounts of the Federation,JAHR,Year,2015,DINSG,Germany,DG,Germany,44882,1000,ERW001,Economically active population
+81000,National accounts of the Federation,JAHR,Year,2015,DINSG,Germany,DG,Germany,43088,1000,ERW060,Persons in employment (national concept)
+81000,National accounts of the Federation,JAHR,Year,2015,DINSG,Germany,DG,Germany,4,percent,ERW089,Unemployment rate
+81000,National accounts of the Federation,JAHR,Year,2015,DINSG,Germany,DG,Germany,49,1000,PEN012,Cross-border commuter balance
+81000,National accounts of the Federation,JAHR,Year,2015,DINSG,Germany,DG,Germany,43137,1000,ERW063,Persons in employment (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2015,DINSG,Germany,DG,Germany,4414,1000,ERW030,Self-employed persons
+81000,National accounts of the Federation,JAHR,Year,2015,DINSG,Germany,DG,Germany,38674,1000,ERW036,Employees (national concept)
+81000,National accounts of the Federation,JAHR,Year,2015,DINSG,Germany,DG,Germany,36464,1000,ERW004,Economically inactive population
+81000,National accounts of the Federation,JAHR,Year,2015,DINSG,Germany,DG,Germany,55.2,percent,ERW088,Labour force participation rate
+81000,National accounts of the Federation,JAHR,Year,2014,DINSG,Germany,DG,Germany,38290,1000,ERW061,Employees (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2014,DINSG,Germany,DG,Germany,80758,1000,BEV020,Population
+81000,National accounts of the Federation,JAHR,Year,2014,DINSG,Germany,DG,Germany,1930,1000,ERW003,Unemployed persons
+81000,National accounts of the Federation,JAHR,Year,2014,DINSG,Germany,DG,Germany,44664,1000,ERW001,Economically active population
+81000,National accounts of the Federation,JAHR,Year,2014,DINSG,Germany,DG,Germany,42734,1000,ERW060,Persons in employment (national concept)
+81000,National accounts of the Federation,JAHR,Year,2014,DINSG,Germany,DG,Germany,4.3,percent,ERW089,Unemployment rate
+81000,National accounts of the Federation,JAHR,Year,2014,DINSG,Germany,DG,Germany,22,1000,PEN012,Cross-border commuter balance
+81000,National accounts of the Federation,JAHR,Year,2014,DINSG,Germany,DG,Germany,42756,1000,ERW063,Persons in employment (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2014,DINSG,Germany,DG,Germany,4466,1000,ERW030,Self-employed persons
+81000,National accounts of the Federation,JAHR,Year,2014,DINSG,Germany,DG,Germany,38268,1000,ERW036,Employees (national concept)
+81000,National accounts of the Federation,JAHR,Year,2014,DINSG,Germany,DG,Germany,36094,1000,ERW004,Economically inactive population
+81000,National accounts of the Federation,JAHR,Year,2014,DINSG,Germany,DG,Germany,55.3,percent,ERW088,Labour force participation rate
+81000,National accounts of the Federation,JAHR,Year,2013,DINSG,Germany,DG,Germany,37877,1000,ERW061,Employees (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2013,DINSG,Germany,DG,Germany,80517,1000,BEV020,Population
+81000,National accounts of the Federation,JAHR,Year,2013,DINSG,Germany,DG,Germany,2019,1000,ERW003,Unemployed persons
+81000,National accounts of the Federation,JAHR,Year,2013,DINSG,Germany,DG,Germany,44380,1000,ERW001,Economically active population
+81000,National accounts of the Federation,JAHR,Year,2013,DINSG,Germany,DG,Germany,42361,1000,ERW060,Persons in employment (national concept)
+81000,National accounts of the Federation,JAHR,Year,2013,DINSG,Germany,DG,Germany,4.5,percent,ERW089,Unemployment rate
+81000,National accounts of the Federation,JAHR,Year,2013,DINSG,Germany,DG,Germany,17,1000,PEN012,Cross-border commuter balance
+81000,National accounts of the Federation,JAHR,Year,2013,DINSG,Germany,DG,Germany,42378,1000,ERW063,Persons in employment (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2013,DINSG,Germany,DG,Germany,4501,1000,ERW030,Self-employed persons
+81000,National accounts of the Federation,JAHR,Year,2013,DINSG,Germany,DG,Germany,37860,1000,ERW036,Employees (national concept)
+81000,National accounts of the Federation,JAHR,Year,2013,DINSG,Germany,DG,Germany,36137,1000,ERW004,Economically inactive population
+81000,National accounts of the Federation,JAHR,Year,2013,DINSG,Germany,DG,Germany,55.1,percent,ERW088,Labour force participation rate
+81000,National accounts of the Federation,JAHR,Year,2012,DINSG,Germany,DG,Germany,37538,1000,ERW061,Employees (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2012,DINSG,Germany,DG,Germany,80385,1000,BEV020,Population
+81000,National accounts of the Federation,JAHR,Year,2012,DINSG,Germany,DG,Germany,2064,1000,ERW003,Unemployed persons
+81000,National accounts of the Federation,JAHR,Year,2012,DINSG,Germany,DG,Germany,44112,1000,ERW001,Economically active population
+81000,National accounts of the Federation,JAHR,Year,2012,DINSG,Germany,DG,Germany,42048,1000,ERW060,Persons in employment (national concept)
+81000,National accounts of the Federation,JAHR,Year,2012,DINSG,Germany,DG,Germany,4.7,percent,ERW089,Unemployment rate
+81000,National accounts of the Federation,JAHR,Year,2012,DINSG,Germany,DG,Germany,17,1000,PEN012,Cross-border commuter balance
+81000,National accounts of the Federation,JAHR,Year,2012,DINSG,Germany,DG,Germany,42065,1000,ERW063,Persons in employment (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2012,DINSG,Germany,DG,Germany,4527,1000,ERW030,Self-employed persons
+81000,National accounts of the Federation,JAHR,Year,2012,DINSG,Germany,DG,Germany,37521,1000,ERW036,Employees (national concept)
+81000,National accounts of the Federation,JAHR,Year,2012,DINSG,Germany,DG,Germany,36273,1000,ERW004,Economically inactive population
+81000,National accounts of the Federation,JAHR,Year,2012,DINSG,Germany,DG,Germany,54.9,percent,ERW088,Labour force participation rate
+81000,National accounts of the Federation,JAHR,Year,2011,DINSG,Germany,DG,Germany,37039,1000,ERW061,Employees (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2011,DINSG,Germany,DG,Germany,80275,1000,BEV020,Population
+81000,National accounts of the Federation,JAHR,Year,2011,DINSG,Germany,DG,Germany,2230,1000,ERW003,Unemployed persons
+81000,National accounts of the Federation,JAHR,Year,2011,DINSG,Germany,DG,Germany,43798,1000,ERW001,Economically active population
+81000,National accounts of the Federation,JAHR,Year,2011,DINSG,Germany,DG,Germany,41568,1000,ERW060,Persons in employment (national concept)
+81000,National accounts of the Federation,JAHR,Year,2011,DINSG,Germany,DG,Germany,5.1,percent,ERW089,Unemployment rate
+81000,National accounts of the Federation,JAHR,Year,2011,DINSG,Germany,DG,Germany,2,1000,PEN012,Cross-border commuter balance
+81000,National accounts of the Federation,JAHR,Year,2011,DINSG,Germany,DG,Germany,41570,1000,ERW063,Persons in employment (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2011,DINSG,Germany,DG,Germany,4531,1000,ERW030,Self-employed persons
+81000,National accounts of the Federation,JAHR,Year,2011,DINSG,Germany,DG,Germany,37037,1000,ERW036,Employees (national concept)
+81000,National accounts of the Federation,JAHR,Year,2011,DINSG,Germany,DG,Germany,36477,1000,ERW004,Economically inactive population
+81000,National accounts of the Federation,JAHR,Year,2011,DINSG,Germany,DG,Germany,54.6,percent,ERW088,Labour force participation rate
+81000,National accounts of the Federation,JAHR,Year,2010,DINSG,Germany,DG,Germany,36581,1000,ERW061,Employees (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2010,DINSG,Germany,DG,Germany,80284,1000,BEV020,Population
+81000,National accounts of the Federation,JAHR,Year,2010,DINSG,Germany,DG,Germany,2642,1000,ERW003,Unemployed persons
+81000,National accounts of the Federation,JAHR,Year,2010,DINSG,Germany,DG,Germany,43731,1000,ERW001,Economically active population
+81000,National accounts of the Federation,JAHR,Year,2010,DINSG,Germany,DG,Germany,41089,1000,ERW060,Persons in employment (national concept)
+81000,National accounts of the Federation,JAHR,Year,2010,DINSG,Germany,DG,Germany,6,percent,ERW089,Unemployment rate
+81000,National accounts of the Federation,JAHR,Year,2010,DINSG,Germany,DG,Germany,10,1000,PEN012,Cross-border commuter balance
+81000,National accounts of the Federation,JAHR,Year,2010,DINSG,Germany,DG,Germany,41099,1000,ERW063,Persons in employment (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2010,DINSG,Germany,DG,Germany,4518,1000,ERW030,Self-employed persons
+81000,National accounts of the Federation,JAHR,Year,2010,DINSG,Germany,DG,Germany,36571,1000,ERW036,Employees (national concept)
+81000,National accounts of the Federation,JAHR,Year,2010,DINSG,Germany,DG,Germany,36553,1000,ERW004,Economically inactive population
+81000,National accounts of the Federation,JAHR,Year,2010,DINSG,Germany,DG,Germany,54.5,percent,ERW088,Labour force participation rate
+81000,National accounts of the Federation,JAHR,Year,2019,DINSG,Germany,DG,Germany,41145,1000,ERW061,Employees (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2019,DINSG,Germany,DG,Germany,82203,1000,BEV020,Population
+81000,National accounts of the Federation,JAHR,Year,2019,DINSG,Germany,DG,Germany,1250,1000,ERW003,Unemployed persons
+81000,National accounts of the Federation,JAHR,Year,2019,DINSG,Germany,DG,Germany,46406,1000,ERW001,Economically active population
+81000,National accounts of the Federation,JAHR,Year,2019,DINSG,Germany,DG,Germany,45156,1000,ERW060,Persons in employment (national concept)
+81000,National accounts of the Federation,JAHR,Year,2019,DINSG,Germany,DG,Germany,2.7,percent,ERW089,Unemployment rate
+81000,National accounts of the Federation,JAHR,Year,2019,DINSG,Germany,DG,Germany,135,1000,PEN012,Cross-border commuter balance
+81000,National accounts of the Federation,JAHR,Year,2019,DINSG,Germany,DG,Germany,45291,1000,ERW063,Persons in employment (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2019,DINSG,Germany,DG,Germany,4146,1000,ERW030,Self-employed persons
+81000,National accounts of the Federation,JAHR,Year,2019,DINSG,Germany,DG,Germany,41010,1000,ERW036,Employees (national concept)
+81000,National accounts of the Federation,JAHR,Year,2019,DINSG,Germany,DG,Germany,35797,1000,ERW004,Economically inactive population
+81000,National accounts of the Federation,JAHR,Year,2019,DINSG,Germany,DG,Germany,56.5,percent,ERW088,Labour force participation rate
+81000,National accounts of the Federation,JAHR,Year,2018,DINSG,Germany,DG,Germany,40649,1000,ERW061,Employees (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2018,DINSG,Germany,DG,Germany,82157,1000,BEV020,Population
+81000,National accounts of the Federation,JAHR,Year,2018,DINSG,Germany,DG,Germany,1341,1000,ERW003,Unemployed persons
+81000,National accounts of the Federation,JAHR,Year,2018,DINSG,Germany,DG,Germany,46098,1000,ERW001,Economically active population
+81000,National accounts of the Federation,JAHR,Year,2018,DINSG,Germany,DG,Germany,44757,1000,ERW060,Persons in employment (national concept)
+81000,National accounts of the Federation,JAHR,Year,2018,DINSG,Germany,DG,Germany,2.9,percent,ERW089,Unemployment rate
+81000,National accounts of the Federation,JAHR,Year,2018,DINSG,Germany,DG,Germany,121,1000,PEN012,Cross-border commuter balance
+81000,National accounts of the Federation,JAHR,Year,2018,DINSG,Germany,DG,Germany,44878,1000,ERW063,Persons in employment (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2018,DINSG,Germany,DG,Germany,4229,1000,ERW030,Self-employed persons
+81000,National accounts of the Federation,JAHR,Year,2018,DINSG,Germany,DG,Germany,40528,1000,ERW036,Employees (national concept)
+81000,National accounts of the Federation,JAHR,Year,2018,DINSG,Germany,DG,Germany,36059,1000,ERW004,Economically inactive population
+81000,National accounts of the Federation,JAHR,Year,2018,DINSG,Germany,DG,Germany,56.1,percent,ERW088,Labour force participation rate
+81000,National accounts of the Federation,JAHR,Year,2017,DINSG,Germany,DG,Germany,39997,1000,ERW061,Employees (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2017,DINSG,Germany,DG,Germany,82038,1000,BEV020,Population
+81000,National accounts of the Federation,JAHR,Year,2017,DINSG,Germany,DG,Germany,1487,1000,ERW003,Unemployed persons
+81000,National accounts of the Federation,JAHR,Year,2017,DINSG,Germany,DG,Germany,45677,1000,ERW001,Economically active population
+81000,National accounts of the Federation,JAHR,Year,2017,DINSG,Germany,DG,Germany,44190,1000,ERW060,Persons in employment (national concept)
+81000,National accounts of the Federation,JAHR,Year,2017,DINSG,Germany,DG,Germany,3.3,percent,ERW089,Unemployment rate
+81000,National accounts of the Federation,JAHR,Year,2017,DINSG,Germany,DG,Germany,100,1000,PEN012,Cross-border commuter balance
+81000,National accounts of the Federation,JAHR,Year,2017,DINSG,Germany,DG,Germany,44290,1000,ERW063,Persons in employment (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2017,DINSG,Germany,DG,Germany,4293,1000,ERW030,Self-employed persons
+81000,National accounts of the Federation,JAHR,Year,2017,DINSG,Germany,DG,Germany,39897,1000,ERW036,Employees (national concept)
+81000,National accounts of the Federation,JAHR,Year,2017,DINSG,Germany,DG,Germany,36361,1000,ERW004,Economically inactive population
+81000,National accounts of the Federation,JAHR,Year,2017,DINSG,Germany,DG,Germany,55.7,percent,ERW088,Labour force participation rate
+81000,National accounts of the Federation,JAHR,Year,1999,DINSG,Germany,DG,Germany,35134,1000,ERW061,Employees (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,1999,DINSG,Germany,DG,Germany,81422,1000,BEV020,Population
+81000,National accounts of the Federation,JAHR,Year,1999,DINSG,Germany,DG,Germany,3366,1000,ERW003,Unemployed persons
+81000,National accounts of the Federation,JAHR,Year,1999,DINSG,Germany,DG,Germany,42370,1000,ERW001,Economically active population
+81000,National accounts of the Federation,JAHR,Year,1999,DINSG,Germany,DG,Germany,39004,1000,ERW060,Persons in employment (national concept)
+81000,National accounts of the Federation,JAHR,Year,1999,DINSG,Germany,DG,Germany,7.9,percent,ERW089,Unemployment rate
+81000,National accounts of the Federation,JAHR,Year,1999,DINSG,Germany,DG,Germany,121,1000,PEN012,Cross-border commuter balance
+81000,National accounts of the Federation,JAHR,Year,1999,DINSG,Germany,DG,Germany,39125,1000,ERW063,Persons in employment (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,1999,DINSG,Germany,DG,Germany,3991,1000,ERW030,Self-employed persons
+81000,National accounts of the Federation,JAHR,Year,1999,DINSG,Germany,DG,Germany,35013,1000,ERW036,Employees (national concept)
+81000,National accounts of the Federation,JAHR,Year,1999,DINSG,Germany,DG,Germany,39052,1000,ERW004,Economically inactive population
+81000,National accounts of the Federation,JAHR,Year,1999,DINSG,Germany,DG,Germany,52,percent,ERW088,Labour force participation rate
+81000,National accounts of the Federation,JAHR,Year,1996,DINSG,Germany,DG,Germany,34206,1000,ERW061,Employees (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,1996,DINSG,Germany,DG,Germany,81466,1000,BEV020,Population
+81000,National accounts of the Federation,JAHR,Year,1996,DINSG,Germany,DG,Germany,3471,1000,ERW003,Unemployed persons
+81000,National accounts of the Federation,JAHR,Year,1996,DINSG,Germany,DG,Germany,41435,1000,ERW001,Economically active population
+81000,National accounts of the Federation,JAHR,Year,1996,DINSG,Germany,DG,Germany,37964,1000,ERW060,Persons in employment (national concept)
+81000,National accounts of the Federation,JAHR,Year,1996,DINSG,Germany,DG,Germany,8.4,percent,ERW089,Unemployment rate
+81000,National accounts of the Federation,JAHR,Year,1996,DINSG,Germany,DG,Germany,98,1000,PEN012,Cross-border commuter balance
+81000,National accounts of the Federation,JAHR,Year,1996,DINSG,Germany,DG,Germany,38062,1000,ERW063,Persons in employment (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,1996,DINSG,Germany,DG,Germany,3856,1000,ERW030,Self-employed persons
+81000,National accounts of the Federation,JAHR,Year,1996,DINSG,Germany,DG,Germany,34108,1000,ERW036,Employees (national concept)
+81000,National accounts of the Federation,JAHR,Year,1996,DINSG,Germany,DG,Germany,40031,1000,ERW004,Economically inactive population
+81000,National accounts of the Federation,JAHR,Year,1996,DINSG,Germany,DG,Germany,50.9,percent,ERW088,Labour force participation rate
+81000,National accounts of the Federation,JAHR,Year,1995,DINSG,Germany,DG,Germany,34249,1000,ERW061,Employees (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,1995,DINSG,Germany,DG,Germany,81308,1000,BEV020,Population
+81000,National accounts of the Federation,JAHR,Year,1995,DINSG,Germany,DG,Germany,3205,1000,ERW003,Unemployed persons
+81000,National accounts of the Federation,JAHR,Year,1995,DINSG,Germany,DG,Germany,41161,1000,ERW001,Economically active population
+81000,National accounts of the Federation,JAHR,Year,1995,DINSG,Germany,DG,Germany,37956,1000,ERW060,Persons in employment (national concept)
+81000,National accounts of the Federation,JAHR,Year,1995,DINSG,Germany,DG,Germany,7.8,percent,ERW089,Unemployment rate
+81000,National accounts of the Federation,JAHR,Year,1995,DINSG,Germany,DG,Germany,90,1000,PEN012,Cross-border commuter balance
+81000,National accounts of the Federation,JAHR,Year,1995,DINSG,Germany,DG,Germany,38046,1000,ERW063,Persons in employment (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,1995,DINSG,Germany,DG,Germany,3797,1000,ERW030,Self-employed persons
+81000,National accounts of the Federation,JAHR,Year,1995,DINSG,Germany,DG,Germany,34159,1000,ERW036,Employees (national concept)
+81000,National accounts of the Federation,JAHR,Year,1995,DINSG,Germany,DG,Germany,40147,1000,ERW004,Economically inactive population
+81000,National accounts of the Federation,JAHR,Year,1995,DINSG,Germany,DG,Germany,50.6,percent,ERW088,Labour force participation rate
+81000,National accounts of the Federation,JAHR,Year,1998,DINSG,Germany,DG,Germany,34537,1000,ERW061,Employees (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,1998,DINSG,Germany,DG,Germany,81446,1000,BEV020,Population
+81000,National accounts of the Federation,JAHR,Year,1998,DINSG,Germany,DG,Germany,3682,1000,ERW003,Unemployed persons
+81000,National accounts of the Federation,JAHR,Year,1998,DINSG,Germany,DG,Germany,42071,1000,ERW001,Economically active population
+81000,National accounts of the Federation,JAHR,Year,1998,DINSG,Germany,DG,Germany,38389,1000,ERW060,Persons in employment (national concept)
+81000,National accounts of the Federation,JAHR,Year,1998,DINSG,Germany,DG,Germany,8.8,percent,ERW089,Unemployment rate
+81000,National accounts of the Federation,JAHR,Year,1998,DINSG,Germany,DG,Germany,111,1000,PEN012,Cross-border commuter balance
+81000,National accounts of the Federation,JAHR,Year,1998,DINSG,Germany,DG,Germany,38500,1000,ERW063,Persons in employment (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,1998,DINSG,Germany,DG,Germany,3963,1000,ERW030,Self-employed persons
+81000,National accounts of the Federation,JAHR,Year,1998,DINSG,Germany,DG,Germany,34426,1000,ERW036,Employees (national concept)
+81000,National accounts of the Federation,JAHR,Year,1998,DINSG,Germany,DG,Germany,39375,1000,ERW004,Economically inactive population
+81000,National accounts of the Federation,JAHR,Year,1998,DINSG,Germany,DG,Germany,51.7,percent,ERW088,Labour force participation rate
+81000,National accounts of the Federation,JAHR,Year,1997,DINSG,Germany,DG,Germany,34130,1000,ERW061,Employees (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,1997,DINSG,Germany,DG,Germany,81510,1000,BEV020,Population
+81000,National accounts of the Federation,JAHR,Year,1997,DINSG,Germany,DG,Germany,3764,1000,ERW003,Unemployed persons
+81000,National accounts of the Federation,JAHR,Year,1997,DINSG,Germany,DG,Germany,41704,1000,ERW001,Economically active population
+81000,National accounts of the Federation,JAHR,Year,1997,DINSG,Germany,DG,Germany,37940,1000,ERW060,Persons in employment (national concept)
+81000,National accounts of the Federation,JAHR,Year,1997,DINSG,Germany,DG,Germany,9,percent,ERW089,Unemployment rate
+81000,National accounts of the Federation,JAHR,Year,1997,DINSG,Germany,DG,Germany,105,1000,PEN012,Cross-border commuter balance
+81000,National accounts of the Federation,JAHR,Year,1997,DINSG,Germany,DG,Germany,38045,1000,ERW063,Persons in employment (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,1997,DINSG,Germany,DG,Germany,3915,1000,ERW030,Self-employed persons
+81000,National accounts of the Federation,JAHR,Year,1997,DINSG,Germany,DG,Germany,34025,1000,ERW036,Employees (national concept)
+81000,National accounts of the Federation,JAHR,Year,1997,DINSG,Germany,DG,Germany,39806,1000,ERW004,Economically inactive population
+81000,National accounts of the Federation,JAHR,Year,1997,DINSG,Germany,DG,Germany,51.2,percent,ERW088,Labour force participation rate
+81000,National accounts of the Federation,JAHR,Year,2004,DINSG,Germany,DG,Germany,35110,1000,ERW061,Employees (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2004,DINSG,Germany,DG,Germany,81456,1000,BEV020,Population
+81000,National accounts of the Federation,JAHR,Year,2004,DINSG,Germany,DG,Germany,4127,1000,ERW003,Unemployed persons
+81000,National accounts of the Federation,JAHR,Year,2004,DINSG,Germany,DG,Germany,43365,1000,ERW001,Economically active population
+81000,National accounts of the Federation,JAHR,Year,2004,DINSG,Germany,DG,Germany,39238,1000,ERW060,Persons in employment (national concept)
+81000,National accounts of the Federation,JAHR,Year,2004,DINSG,Germany,DG,Germany,9.5,percent,ERW089,Unemployment rate
+81000,National accounts of the Federation,JAHR,Year,2004,DINSG,Germany,DG,Germany,132,1000,PEN012,Cross-border commuter balance
+81000,National accounts of the Federation,JAHR,Year,2004,DINSG,Germany,DG,Germany,39370,1000,ERW063,Persons in employment (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2004,DINSG,Germany,DG,Germany,4260,1000,ERW030,Self-employed persons
+81000,National accounts of the Federation,JAHR,Year,2004,DINSG,Germany,DG,Germany,34978,1000,ERW036,Employees (national concept)
+81000,National accounts of the Federation,JAHR,Year,2004,DINSG,Germany,DG,Germany,38091,1000,ERW004,Economically inactive population
+81000,National accounts of the Federation,JAHR,Year,2004,DINSG,Germany,DG,Germany,53.2,percent,ERW088,Labour force participation rate
+81000,National accounts of the Federation,JAHR,Year,2005,DINSG,Germany,DG,Germany,34941,1000,ERW061,Employees (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2005,DINSG,Germany,DG,Germany,81337,1000,BEV020,Population
+81000,National accounts of the Federation,JAHR,Year,2005,DINSG,Germany,DG,Germany,4506,1000,ERW003,Unemployed persons
+81000,National accounts of the Federation,JAHR,Year,2005,DINSG,Germany,DG,Germany,43706,1000,ERW001,Economically active population
+81000,National accounts of the Federation,JAHR,Year,2005,DINSG,Germany,DG,Germany,39200,1000,ERW060,Persons in employment (national concept)
+81000,National accounts of the Federation,JAHR,Year,2005,DINSG,Germany,DG,Germany,10.3,percent,ERW089,Unemployment rate
+81000,National accounts of the Federation,JAHR,Year,2005,DINSG,Germany,DG,Germany,122,1000,PEN012,Cross-border commuter balance
+81000,National accounts of the Federation,JAHR,Year,2005,DINSG,Germany,DG,Germany,39322,1000,ERW063,Persons in employment (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2005,DINSG,Germany,DG,Germany,4381,1000,ERW030,Self-employed persons
+81000,National accounts of the Federation,JAHR,Year,2005,DINSG,Germany,DG,Germany,34819,1000,ERW036,Employees (national concept)
+81000,National accounts of the Federation,JAHR,Year,2005,DINSG,Germany,DG,Germany,37631,1000,ERW004,Economically inactive population
+81000,National accounts of the Federation,JAHR,Year,2005,DINSG,Germany,DG,Germany,53.7,percent,ERW088,Labour force participation rate
+81000,National accounts of the Federation,JAHR,Year,2025,DINSG,Germany,DG,Germany,42316,1000,ERW061,Employees (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2025,DINSG,Germany,DG,Germany,83524,1000,BEV020,Population
+81000,National accounts of the Federation,JAHR,Year,2025,DINSG,Germany,DG,Germany,1652,1000,ERW003,Unemployed persons
+81000,National accounts of the Federation,JAHR,Year,2025,DINSG,Germany,DG,Germany,47482,1000,ERW001,Economically active population
+81000,National accounts of the Federation,JAHR,Year,2025,DINSG,Germany,DG,Germany,45830,1000,ERW060,Persons in employment (national concept)
+81000,National accounts of the Federation,JAHR,Year,2025,DINSG,Germany,DG,Germany,3.5,percent,ERW089,Unemployment rate
+81000,National accounts of the Federation,JAHR,Year,2025,DINSG,Germany,DG,Germany,152,1000,PEN012,Cross-border commuter balance
+81000,National accounts of the Federation,JAHR,Year,2025,DINSG,Germany,DG,Germany,45982,1000,ERW063,Persons in employment (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2025,DINSG,Germany,DG,Germany,3666,1000,ERW030,Self-employed persons
+81000,National accounts of the Federation,JAHR,Year,2025,DINSG,Germany,DG,Germany,42164,1000,ERW036,Employees (national concept)
+81000,National accounts of the Federation,JAHR,Year,2025,DINSG,Germany,DG,Germany,36042,1000,ERW004,Economically inactive population
+81000,National accounts of the Federation,JAHR,Year,2025,DINSG,Germany,DG,Germany,56.8,percent,ERW088,Labour force participation rate
+81000,National accounts of the Federation,JAHR,Year,2002,DINSG,Germany,DG,Germany,35612,1000,ERW061,Employees (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2002,DINSG,Germany,DG,Germany,81578,1000,BEV020,Population
+81000,National accounts of the Federation,JAHR,Year,2002,DINSG,Germany,DG,Germany,3376,1000,ERW003,Unemployed persons
+81000,National accounts of the Federation,JAHR,Year,2002,DINSG,Germany,DG,Germany,42897,1000,ERW001,Economically active population
+81000,National accounts of the Federation,JAHR,Year,2002,DINSG,Germany,DG,Germany,39521,1000,ERW060,Persons in employment (national concept)
+81000,National accounts of the Federation,JAHR,Year,2002,DINSG,Germany,DG,Germany,7.9,percent,ERW089,Unemployment rate
+81000,National accounts of the Federation,JAHR,Year,2002,DINSG,Germany,DG,Germany,153,1000,PEN012,Cross-border commuter balance
+81000,National accounts of the Federation,JAHR,Year,2002,DINSG,Germany,DG,Germany,39674,1000,ERW063,Persons in employment (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2002,DINSG,Germany,DG,Germany,4062,1000,ERW030,Self-employed persons
+81000,National accounts of the Federation,JAHR,Year,2002,DINSG,Germany,DG,Germany,35459,1000,ERW036,Employees (national concept)
+81000,National accounts of the Federation,JAHR,Year,2002,DINSG,Germany,DG,Germany,38681,1000,ERW004,Economically inactive population
+81000,National accounts of the Federation,JAHR,Year,2002,DINSG,Germany,DG,Germany,52.6,percent,ERW088,Labour force participation rate
+81000,National accounts of the Federation,JAHR,Year,2024,DINSG,Germany,DG,Germany,42283,1000,ERW061,Employees (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2024,DINSG,Germany,DG,Germany,83517,1000,BEV020,Population
+81000,National accounts of the Federation,JAHR,Year,2024,DINSG,Germany,DG,Germany,1490,1000,ERW003,Unemployed persons
+81000,National accounts of the Federation,JAHR,Year,2024,DINSG,Germany,DG,Germany,47320,1000,ERW001,Economically active population
+81000,National accounts of the Federation,JAHR,Year,2024,DINSG,Germany,DG,Germany,45830,1000,ERW060,Persons in employment (national concept)
+81000,National accounts of the Federation,JAHR,Year,2024,DINSG,Germany,DG,Germany,3.1,percent,ERW089,Unemployment rate
+81000,National accounts of the Federation,JAHR,Year,2024,DINSG,Germany,DG,Germany,157,1000,PEN012,Cross-border commuter balance
+81000,National accounts of the Federation,JAHR,Year,2024,DINSG,Germany,DG,Germany,45987,1000,ERW063,Persons in employment (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2024,DINSG,Germany,DG,Germany,3704,1000,ERW030,Self-employed persons
+81000,National accounts of the Federation,JAHR,Year,2024,DINSG,Germany,DG,Germany,42126,1000,ERW036,Employees (national concept)
+81000,National accounts of the Federation,JAHR,Year,2024,DINSG,Germany,DG,Germany,36197,1000,ERW004,Economically inactive population
+81000,National accounts of the Federation,JAHR,Year,2024,DINSG,Germany,DG,Germany,56.7,percent,ERW088,Labour force participation rate
+81000,National accounts of the Federation,JAHR,Year,2003,DINSG,Germany,DG,Germany,35112,1000,ERW061,Employees (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2003,DINSG,Germany,DG,Germany,81549,1000,BEV020,Population
+81000,National accounts of the Federation,JAHR,Year,2003,DINSG,Germany,DG,Germany,3810,1000,ERW003,Unemployed persons
+81000,National accounts of the Federation,JAHR,Year,2003,DINSG,Germany,DG,Germany,42923,1000,ERW001,Economically active population
+81000,National accounts of the Federation,JAHR,Year,2003,DINSG,Germany,DG,Germany,39113,1000,ERW060,Persons in employment (national concept)
+81000,National accounts of the Federation,JAHR,Year,2003,DINSG,Germany,DG,Germany,8.9,percent,ERW089,Unemployment rate
+81000,National accounts of the Federation,JAHR,Year,2003,DINSG,Germany,DG,Germany,133,1000,PEN012,Cross-border commuter balance
+81000,National accounts of the Federation,JAHR,Year,2003,DINSG,Germany,DG,Germany,39246,1000,ERW063,Persons in employment (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2003,DINSG,Germany,DG,Germany,4134,1000,ERW030,Self-employed persons
+81000,National accounts of the Federation,JAHR,Year,2003,DINSG,Germany,DG,Germany,34979,1000,ERW036,Employees (national concept)
+81000,National accounts of the Federation,JAHR,Year,2003,DINSG,Germany,DG,Germany,38626,1000,ERW004,Economically inactive population
+81000,National accounts of the Federation,JAHR,Year,2003,DINSG,Germany,DG,Germany,52.6,percent,ERW088,Labour force participation rate
+81000,National accounts of the Federation,JAHR,Year,2000,DINSG,Germany,DG,Germany,35963,1000,ERW061,Employees (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2000,DINSG,Germany,DG,Germany,81457,1000,BEV020,Population
+81000,National accounts of the Federation,JAHR,Year,2000,DINSG,Germany,DG,Germany,3114,1000,ERW003,Unemployed persons
+81000,National accounts of the Federation,JAHR,Year,2000,DINSG,Germany,DG,Germany,42949,1000,ERW001,Economically active population
+81000,National accounts of the Federation,JAHR,Year,2000,DINSG,Germany,DG,Germany,39835,1000,ERW060,Persons in employment (national concept)
+81000,National accounts of the Federation,JAHR,Year,2000,DINSG,Germany,DG,Germany,7.3,percent,ERW089,Unemployment rate
+81000,National accounts of the Federation,JAHR,Year,2000,DINSG,Germany,DG,Germany,141,1000,PEN012,Cross-border commuter balance
+81000,National accounts of the Federation,JAHR,Year,2000,DINSG,Germany,DG,Germany,39976,1000,ERW063,Persons in employment (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2000,DINSG,Germany,DG,Germany,4013,1000,ERW030,Self-employed persons
+81000,National accounts of the Federation,JAHR,Year,2000,DINSG,Germany,DG,Germany,35822,1000,ERW036,Employees (national concept)
+81000,National accounts of the Federation,JAHR,Year,2000,DINSG,Germany,DG,Germany,38508,1000,ERW004,Economically inactive population
+81000,National accounts of the Federation,JAHR,Year,2000,DINSG,Germany,DG,Germany,52.7,percent,ERW088,Labour force participation rate
+81000,National accounts of the Federation,JAHR,Year,2023,DINSG,Germany,DG,Germany,42148,1000,ERW061,Employees (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2023,DINSG,Germany,DG,Germany,83287,1000,BEV020,Population
+81000,National accounts of the Federation,JAHR,Year,2023,DINSG,Germany,DG,Germany,1342,1000,ERW003,Unemployed persons
+81000,National accounts of the Federation,JAHR,Year,2023,DINSG,Germany,DG,Germany,47124,1000,ERW001,Economically active population
+81000,National accounts of the Federation,JAHR,Year,2023,DINSG,Germany,DG,Germany,45782,1000,ERW060,Persons in employment (national concept)
+81000,National accounts of the Federation,JAHR,Year,2023,DINSG,Germany,DG,Germany,2.8,percent,ERW089,Unemployment rate
+81000,National accounts of the Federation,JAHR,Year,2023,DINSG,Germany,DG,Germany,153,1000,PEN012,Cross-border commuter balance
+81000,National accounts of the Federation,JAHR,Year,2023,DINSG,Germany,DG,Germany,45935,1000,ERW063,Persons in employment (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2023,DINSG,Germany,DG,Germany,3787,1000,ERW030,Self-employed persons
+81000,National accounts of the Federation,JAHR,Year,2023,DINSG,Germany,DG,Germany,41995,1000,ERW036,Employees (national concept)
+81000,National accounts of the Federation,JAHR,Year,2023,DINSG,Germany,DG,Germany,36163,1000,ERW004,Economically inactive population
+81000,National accounts of the Federation,JAHR,Year,2023,DINSG,Germany,DG,Germany,56.6,percent,ERW088,Labour force participation rate
+81000,National accounts of the Federation,JAHR,Year,2001,DINSG,Germany,DG,Germany,35837,1000,ERW061,Employees (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2001,DINSG,Germany,DG,Germany,81517,1000,BEV020,Population
+81000,National accounts of the Federation,JAHR,Year,2001,DINSG,Germany,DG,Germany,3059,1000,ERW003,Unemployed persons
+81000,National accounts of the Federation,JAHR,Year,2001,DINSG,Germany,DG,Germany,42765,1000,ERW001,Economically active population
+81000,National accounts of the Federation,JAHR,Year,2001,DINSG,Germany,DG,Germany,39706,1000,ERW060,Persons in employment (national concept)
+81000,National accounts of the Federation,JAHR,Year,2001,DINSG,Germany,DG,Germany,7.2,percent,ERW089,Unemployment rate
+81000,National accounts of the Federation,JAHR,Year,2001,DINSG,Germany,DG,Germany,159,1000,PEN012,Cross-border commuter balance
+81000,National accounts of the Federation,JAHR,Year,2001,DINSG,Germany,DG,Germany,39865,1000,ERW063,Persons in employment (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2001,DINSG,Germany,DG,Germany,4028,1000,ERW030,Self-employed persons
+81000,National accounts of the Federation,JAHR,Year,2001,DINSG,Germany,DG,Germany,35678,1000,ERW036,Employees (national concept)
+81000,National accounts of the Federation,JAHR,Year,2001,DINSG,Germany,DG,Germany,38752,1000,ERW004,Economically inactive population
+81000,National accounts of the Federation,JAHR,Year,2001,DINSG,Germany,DG,Germany,52.5,percent,ERW088,Labour force participation rate
+81000,National accounts of the Federation,JAHR,Year,2022,DINSG,Germany,DG,Germany,41767,1000,ERW061,Employees (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2022,DINSG,Germany,DG,Germany,82529,1000,BEV020,Population
+81000,National accounts of the Federation,JAHR,Year,2022,DINSG,Germany,DG,Germany,1355,1000,ERW003,Unemployed persons
+81000,National accounts of the Federation,JAHR,Year,2022,DINSG,Germany,DG,Germany,46824,1000,ERW001,Economically active population
+81000,National accounts of the Federation,JAHR,Year,2022,DINSG,Germany,DG,Germany,45469,1000,ERW060,Persons in employment (national concept)
+81000,National accounts of the Federation,JAHR,Year,2022,DINSG,Germany,DG,Germany,2.9,percent,ERW089,Unemployment rate
+81000,National accounts of the Federation,JAHR,Year,2022,DINSG,Germany,DG,Germany,160,1000,PEN012,Cross-border commuter balance
+81000,National accounts of the Federation,JAHR,Year,2022,DINSG,Germany,DG,Germany,45629,1000,ERW063,Persons in employment (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2022,DINSG,Germany,DG,Germany,3862,1000,ERW030,Self-employed persons
+81000,National accounts of the Federation,JAHR,Year,2022,DINSG,Germany,DG,Germany,41607,1000,ERW036,Employees (national concept)
+81000,National accounts of the Federation,JAHR,Year,2022,DINSG,Germany,DG,Germany,35705,1000,ERW004,Economically inactive population
+81000,National accounts of the Federation,JAHR,Year,2022,DINSG,Germany,DG,Germany,56.7,percent,ERW088,Labour force participation rate
+81000,National accounts of the Federation,JAHR,Year,2021,DINSG,Germany,DG,Germany,41097,1000,ERW061,Employees (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2021,DINSG,Germany,DG,Germany,81995,1000,BEV020,Population
+81000,National accounts of the Federation,JAHR,Year,2021,DINSG,Germany,DG,Germany,1517,1000,ERW003,Unemployed persons
+81000,National accounts of the Federation,JAHR,Year,2021,DINSG,Germany,DG,Germany,46426,1000,ERW001,Economically active population
+81000,National accounts of the Federation,JAHR,Year,2021,DINSG,Germany,DG,Germany,44909,1000,ERW060,Persons in employment (national concept)
+81000,National accounts of the Federation,JAHR,Year,2021,DINSG,Germany,DG,Germany,3.3,percent,ERW089,Unemployment rate
+81000,National accounts of the Federation,JAHR,Year,2021,DINSG,Germany,DG,Germany,132,1000,PEN012,Cross-border commuter balance
+81000,National accounts of the Federation,JAHR,Year,2021,DINSG,Germany,DG,Germany,45041,1000,ERW063,Persons in employment (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2021,DINSG,Germany,DG,Germany,3944,1000,ERW030,Self-employed persons
+81000,National accounts of the Federation,JAHR,Year,2021,DINSG,Germany,DG,Germany,40965,1000,ERW036,Employees (national concept)
+81000,National accounts of the Federation,JAHR,Year,2021,DINSG,Germany,DG,Germany,35569,1000,ERW004,Economically inactive population
+81000,National accounts of the Federation,JAHR,Year,2021,DINSG,Germany,DG,Germany,56.6,percent,ERW088,Labour force participation rate
+81000,National accounts of the Federation,JAHR,Year,2020,DINSG,Germany,DG,Germany,40927,1000,ERW061,Employees (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2020,DINSG,Germany,DG,Germany,82126,1000,BEV020,Population
+81000,National accounts of the Federation,JAHR,Year,2020,DINSG,Germany,DG,Germany,1512,1000,ERW003,Unemployed persons
+81000,National accounts of the Federation,JAHR,Year,2020,DINSG,Germany,DG,Germany,46364,1000,ERW001,Economically active population
+81000,National accounts of the Federation,JAHR,Year,2020,DINSG,Germany,DG,Germany,44852,1000,ERW060,Persons in employment (national concept)
+81000,National accounts of the Federation,JAHR,Year,2020,DINSG,Germany,DG,Germany,3.3,percent,ERW089,Unemployment rate
+81000,National accounts of the Federation,JAHR,Year,2020,DINSG,Germany,DG,Germany,114,1000,PEN012,Cross-border commuter balance
+81000,National accounts of the Federation,JAHR,Year,2020,DINSG,Germany,DG,Germany,44966,1000,ERW063,Persons in employment (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2020,DINSG,Germany,DG,Germany,4039,1000,ERW030,Self-employed persons
+81000,National accounts of the Federation,JAHR,Year,2020,DINSG,Germany,DG,Germany,40813,1000,ERW036,Employees (national concept)
+81000,National accounts of the Federation,JAHR,Year,2020,DINSG,Germany,DG,Germany,35762,1000,ERW004,Economically inactive population
+81000,National accounts of the Federation,JAHR,Year,2020,DINSG,Germany,DG,Germany,56.5,percent,ERW088,Labour force participation rate
+81000,National accounts of the Federation,JAHR,Year,2008,DINSG,Germany,DG,Germany,36372,1000,ERW061,Employees (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2008,DINSG,Germany,DG,Germany,80764,1000,BEV020,Population
+81000,National accounts of the Federation,JAHR,Year,2008,DINSG,Germany,DG,Germany,3018,1000,ERW003,Unemployed persons
+81000,National accounts of the Federation,JAHR,Year,2008,DINSG,Germany,DG,Germany,43831,1000,ERW001,Economically active population
+81000,National accounts of the Federation,JAHR,Year,2008,DINSG,Germany,DG,Germany,40813,1000,ERW060,Persons in employment (national concept)
+81000,National accounts of the Federation,JAHR,Year,2008,DINSG,Germany,DG,Germany,6.9,percent,ERW089,Unemployment rate
+81000,National accounts of the Federation,JAHR,Year,2008,DINSG,Germany,DG,Germany,38,1000,PEN012,Cross-border commuter balance
+81000,National accounts of the Federation,JAHR,Year,2008,DINSG,Germany,DG,Germany,40851,1000,ERW063,Persons in employment (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2008,DINSG,Germany,DG,Germany,4479,1000,ERW030,Self-employed persons
+81000,National accounts of the Federation,JAHR,Year,2008,DINSG,Germany,DG,Germany,36334,1000,ERW036,Employees (national concept)
+81000,National accounts of the Federation,JAHR,Year,2008,DINSG,Germany,DG,Germany,36933,1000,ERW004,Economically inactive population
+81000,National accounts of the Federation,JAHR,Year,2008,DINSG,Germany,DG,Germany,54.3,percent,ERW088,Labour force participation rate
+81000,National accounts of the Federation,JAHR,Year,2009,DINSG,Germany,DG,Germany,36410,1000,ERW061,Employees (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2009,DINSG,Germany,DG,Germany,80483,1000,BEV020,Population
+81000,National accounts of the Federation,JAHR,Year,2009,DINSG,Germany,DG,Germany,3003,1000,ERW003,Unemployed persons
+81000,National accounts of the Federation,JAHR,Year,2009,DINSG,Germany,DG,Germany,43879,1000,ERW001,Economically active population
+81000,National accounts of the Federation,JAHR,Year,2009,DINSG,Germany,DG,Germany,40876,1000,ERW060,Persons in employment (national concept)
+81000,National accounts of the Federation,JAHR,Year,2009,DINSG,Germany,DG,Germany,6.8,percent,ERW089,Unemployment rate
+81000,National accounts of the Federation,JAHR,Year,2009,DINSG,Germany,DG,Germany,27,1000,PEN012,Cross-border commuter balance
+81000,National accounts of the Federation,JAHR,Year,2009,DINSG,Germany,DG,Germany,40903,1000,ERW063,Persons in employment (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2009,DINSG,Germany,DG,Germany,4493,1000,ERW030,Self-employed persons
+81000,National accounts of the Federation,JAHR,Year,2009,DINSG,Germany,DG,Germany,36383,1000,ERW036,Employees (national concept)
+81000,National accounts of the Federation,JAHR,Year,2009,DINSG,Germany,DG,Germany,36604,1000,ERW004,Economically inactive population
+81000,National accounts of the Federation,JAHR,Year,2009,DINSG,Germany,DG,Germany,54.5,percent,ERW088,Labour force participation rate
+81000,National accounts of the Federation,JAHR,Year,2006,DINSG,Germany,DG,Germany,35172,1000,ERW061,Employees (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2006,DINSG,Germany,DG,Germany,81173,1000,BEV020,Population
+81000,National accounts of the Federation,JAHR,Year,2006,DINSG,Germany,DG,Germany,4104,1000,ERW003,Unemployed persons
+81000,National accounts of the Federation,JAHR,Year,2006,DINSG,Germany,DG,Germany,43624,1000,ERW001,Economically active population
+81000,National accounts of the Federation,JAHR,Year,2006,DINSG,Germany,DG,Germany,39520,1000,ERW060,Persons in employment (national concept)
+81000,National accounts of the Federation,JAHR,Year,2006,DINSG,Germany,DG,Germany,9.4,percent,ERW089,Unemployment rate
+81000,National accounts of the Federation,JAHR,Year,2006,DINSG,Germany,DG,Germany,88,1000,PEN012,Cross-border commuter balance
+81000,National accounts of the Federation,JAHR,Year,2006,DINSG,Germany,DG,Germany,39608,1000,ERW063,Persons in employment (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2006,DINSG,Germany,DG,Germany,4436,1000,ERW030,Self-employed persons
+81000,National accounts of the Federation,JAHR,Year,2006,DINSG,Germany,DG,Germany,35084,1000,ERW036,Employees (national concept)
+81000,National accounts of the Federation,JAHR,Year,2006,DINSG,Germany,DG,Germany,37549,1000,ERW004,Economically inactive population
+81000,National accounts of the Federation,JAHR,Year,2006,DINSG,Germany,DG,Germany,53.7,percent,ERW088,Labour force participation rate
+81000,National accounts of the Federation,JAHR,Year,2007,DINSG,Germany,DG,Germany,35812,1000,ERW061,Employees (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2007,DINSG,Germany,DG,Germany,80992,1000,BEV020,Population
+81000,National accounts of the Federation,JAHR,Year,2007,DINSG,Germany,DG,Germany,3473,1000,ERW003,Unemployed persons
+81000,National accounts of the Federation,JAHR,Year,2007,DINSG,Germany,DG,Germany,43683,1000,ERW001,Economically active population
+81000,National accounts of the Federation,JAHR,Year,2007,DINSG,Germany,DG,Germany,40210,1000,ERW060,Persons in employment (national concept)
+81000,National accounts of the Federation,JAHR,Year,2007,DINSG,Germany,DG,Germany,8,percent,ERW089,Unemployment rate
+81000,National accounts of the Federation,JAHR,Year,2007,DINSG,Germany,DG,Germany,71,1000,PEN012,Cross-border commuter balance
+81000,National accounts of the Federation,JAHR,Year,2007,DINSG,Germany,DG,Germany,40281,1000,ERW063,Persons in employment (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,2007,DINSG,Germany,DG,Germany,4469,1000,ERW030,Self-employed persons
+81000,National accounts of the Federation,JAHR,Year,2007,DINSG,Germany,DG,Germany,35741,1000,ERW036,Employees (national concept)
+81000,National accounts of the Federation,JAHR,Year,2007,DINSG,Germany,DG,Germany,37309,1000,ERW004,Economically inactive population
+81000,National accounts of the Federation,JAHR,Year,2007,DINSG,Germany,DG,Germany,53.9,percent,ERW088,Labour force participation rate
+81000,National accounts of the Federation,JAHR,Year,1991,DINSG,Germany,DG,Germany,35310,1000,ERW061,Employees (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,1991,DINSG,Germany,DG,Germany,79973,1000,BEV020,Population
+81000,National accounts of the Federation,JAHR,Year,1991,DINSG,Germany,DG,Germany,2172,1000,ERW003,Unemployed persons
+81000,National accounts of the Federation,JAHR,Year,1991,DINSG,Germany,DG,Germany,41087,1000,ERW001,Economically active population
+81000,National accounts of the Federation,JAHR,Year,1991,DINSG,Germany,DG,Germany,38915,1000,ERW060,Persons in employment (national concept)
+81000,National accounts of the Federation,JAHR,Year,1991,DINSG,Germany,DG,Germany,5.3,percent,ERW089,Unemployment rate
+81000,National accounts of the Federation,JAHR,Year,1991,DINSG,Germany,DG,Germany,-42,1000,PEN012,Cross-border commuter balance
+81000,National accounts of the Federation,JAHR,Year,1991,DINSG,Germany,DG,Germany,38873,1000,ERW063,Persons in employment (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,1991,DINSG,Germany,DG,Germany,3563,1000,ERW030,Self-employed persons
+81000,National accounts of the Federation,JAHR,Year,1991,DINSG,Germany,DG,Germany,35352,1000,ERW036,Employees (national concept)
+81000,National accounts of the Federation,JAHR,Year,1991,DINSG,Germany,DG,Germany,38886,1000,ERW004,Economically inactive population
+81000,National accounts of the Federation,JAHR,Year,1991,DINSG,Germany,DG,Germany,51.4,percent,ERW088,Labour force participation rate
+81000,National accounts of the Federation,JAHR,Year,1992,DINSG,Germany,DG,Germany,34754,1000,ERW061,Employees (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,1992,DINSG,Germany,DG,Germany,80500,1000,BEV020,Population
+81000,National accounts of the Federation,JAHR,Year,1992,DINSG,Germany,DG,Germany,2573,1000,ERW003,Unemployed persons
+81000,National accounts of the Federation,JAHR,Year,1992,DINSG,Germany,DG,Germany,40940,1000,ERW001,Economically active population
+81000,National accounts of the Federation,JAHR,Year,1992,DINSG,Germany,DG,Germany,38367,1000,ERW060,Persons in employment (national concept)
+81000,National accounts of the Federation,JAHR,Year,1992,DINSG,Germany,DG,Germany,6.3,percent,ERW089,Unemployment rate
+81000,National accounts of the Federation,JAHR,Year,1992,DINSG,Germany,DG,Germany,-5,1000,PEN012,Cross-border commuter balance
+81000,National accounts of the Federation,JAHR,Year,1992,DINSG,Germany,DG,Germany,38362,1000,ERW063,Persons in employment (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,1992,DINSG,Germany,DG,Germany,3608,1000,ERW030,Self-employed persons
+81000,National accounts of the Federation,JAHR,Year,1992,DINSG,Germany,DG,Germany,34759,1000,ERW036,Employees (national concept)
+81000,National accounts of the Federation,JAHR,Year,1992,DINSG,Germany,DG,Germany,39560,1000,ERW004,Economically inactive population
+81000,National accounts of the Federation,JAHR,Year,1992,DINSG,Germany,DG,Germany,50.9,percent,ERW088,Labour force participation rate
+81000,National accounts of the Federation,JAHR,Year,1993,DINSG,Germany,DG,Germany,34197,1000,ERW061,Employees (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,1993,DINSG,Germany,DG,Germany,80946,1000,BEV020,Population
+81000,National accounts of the Federation,JAHR,Year,1993,DINSG,Germany,DG,Germany,3050,1000,ERW003,Unemployed persons
+81000,National accounts of the Federation,JAHR,Year,1993,DINSG,Germany,DG,Germany,40898,1000,ERW001,Economically active population
+81000,National accounts of the Federation,JAHR,Year,1993,DINSG,Germany,DG,Germany,37848,1000,ERW060,Persons in employment (national concept)
+81000,National accounts of the Federation,JAHR,Year,1993,DINSG,Germany,DG,Germany,7.5,percent,ERW089,Unemployment rate
+81000,National accounts of the Federation,JAHR,Year,1993,DINSG,Germany,DG,Germany,17,1000,PEN012,Cross-border commuter balance
+81000,National accounts of the Federation,JAHR,Year,1993,DINSG,Germany,DG,Germany,37865,1000,ERW063,Persons in employment (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,1993,DINSG,Germany,DG,Germany,3668,1000,ERW030,Self-employed persons
+81000,National accounts of the Federation,JAHR,Year,1993,DINSG,Germany,DG,Germany,34180,1000,ERW036,Employees (national concept)
+81000,National accounts of the Federation,JAHR,Year,1993,DINSG,Germany,DG,Germany,40048,1000,ERW004,Economically inactive population
+81000,National accounts of the Federation,JAHR,Year,1993,DINSG,Germany,DG,Germany,50.5,percent,ERW088,Labour force participation rate
+81000,National accounts of the Federation,JAHR,Year,1994,DINSG,Germany,DG,Germany,34135,1000,ERW061,Employees (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,1994,DINSG,Germany,DG,Germany,81147,1000,BEV020,Population
+81000,National accounts of the Federation,JAHR,Year,1994,DINSG,Germany,DG,Germany,3306,1000,ERW003,Unemployed persons
+81000,National accounts of the Federation,JAHR,Year,1994,DINSG,Germany,DG,Germany,41153,1000,ERW001,Economically active population
+81000,National accounts of the Federation,JAHR,Year,1994,DINSG,Germany,DG,Germany,37847,1000,ERW060,Persons in employment (national concept)
+81000,National accounts of the Federation,JAHR,Year,1994,DINSG,Germany,DG,Germany,8,percent,ERW089,Unemployment rate
+81000,National accounts of the Federation,JAHR,Year,1994,DINSG,Germany,DG,Germany,34,1000,PEN012,Cross-border commuter balance
+81000,National accounts of the Federation,JAHR,Year,1994,DINSG,Germany,DG,Germany,37881,1000,ERW063,Persons in employment (domestic concept)
+81000,National accounts of the Federation,JAHR,Year,1994,DINSG,Germany,DG,Germany,3746,1000,ERW030,Self-employed persons
+81000,National accounts of the Federation,JAHR,Year,1994,DINSG,Germany,DG,Germany,34101,1000,ERW036,Employees (national concept)
+81000,National accounts of the Federation,JAHR,Year,1994,DINSG,Germany,DG,Germany,39994,1000,ERW004,Economically inactive population
+81000,National accounts of the Federation,JAHR,Year,1994,DINSG,Germany,DG,Germany,50.7,percent,ERW088,Labour force participation rate
